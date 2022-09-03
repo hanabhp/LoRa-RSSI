@@ -89,5 +89,5 @@ First open the function in MATLAB and load the data. Then run the code.
 
 ## Contact
 
-If you face any issue please create an issue or if you are interested in this type of research to collaborate, please shoot an email to <mailto:hana.pasandi@gmail.com>
+If you face any issue please create an issue or if you are interested in this type of research to collaborate, please shoot an email to hana.pasandi@gmail.com
 
