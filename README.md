@@ -20,19 +20,19 @@ Based on the results, by deploying the end node in an accurate
 position, up to 96% correct environment crowd-level
 detection can be obtained.
 
-<<<<<<< HEAD
-##Code execution explanation
+
+## Code execution explanation
 
 
-##Requirements
+## Requirements
 
 MATLAB 2021 or a later Version.
 
-##MATLAB libraries
+## MATLAB libraries
 
 When installing MATLAB, we can select the libraries we need to be installed on MATLAB.
 
-##MATLAB Instillation and Setup
+## MATLAB Instillation and Setup
 
 you must first install the Network License Manager on the server before installing MATLAB on the client workstations.
 
@@ -91,18 +91,3 @@ First open the function in MATLAB and load the data. Then run the code.
 
 If you face any issue please create an issue or if you are interested in this type of research to collaborate, please shoot an email to <mailto:hana.pasandi@gmail.com>
 
-
-
-=======
-## Installation
-
-
-
-
-## Dataset
-
-The Part of the daset is used for traning and other part is selected for evaluation (Randm samples are used for traning and evaluation).
-The samples are colleced using:
-
-## Citation
->>>>>>> 209a5df466c254a573a3308f40c551ff177104ee
